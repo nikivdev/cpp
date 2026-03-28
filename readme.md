@@ -1,6 +1,6 @@
 # C++
 
-## Dev 
+## Dev
 
 With [flow](https://github.com/nikivdev/flow), run `f setup`, then `f` will search through list of tasks.
 
